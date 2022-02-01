@@ -1,0 +1,30 @@
+
+@import "null.css";
+
+h1{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;  
+    color: #1E212C;
+}
+.first{
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 150%; 
+    color: #1E212C;
+}
+.second{
+    font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 160%;
+color: #424551;
+}
+
+
+
